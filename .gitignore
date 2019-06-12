@@ -9,3 +9,10 @@ _site/
 *.gem
 .sass-cache
 Gemfile.lock
+
+# IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
