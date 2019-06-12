@@ -5,7 +5,7 @@
 .env
 *.sw[op]
 /_site
-_site/
+_site/*
 *.gem
 .sass-cache
 Gemfile.lock
