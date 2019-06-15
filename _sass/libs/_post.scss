@@ -11,3 +11,10 @@
     backgroud-color: transparent;
     resize: none;
 }
+
+.row {
+    .item-no-shadow{
+        box-shadow: none;
+        margin-bottom: 10px;
+    }
+}
