@@ -20,3 +20,5 @@ layout: post
 width="100%" height="680px" frameborder="0" marginheight="0" marginwidth="0">2019년 부산 라스트러너 등록</iframe>
 
 등록이 완료되면 메일, 핸드폰과 같이 남겨주신 연락처로 진행상황을 공유해드립니다.
+
+감사합니다.
