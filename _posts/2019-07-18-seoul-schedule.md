@@ -11,7 +11,6 @@ layout: post
             <td colspan="2">7월 29일 월</td>
         </tr>
     </thead>
-    <tbody>
         <tr>
             <td>시간</td>
             <td>일정</td>
@@ -44,16 +43,11 @@ layout: post
             <td>19:30~22:00</td>
             <td>session 2</td>
         </tr>
-    </tbody>
-</table>
-
-<table>
     <thead>
         <tr>
             <td colspan="2">7월 30일 화</td>
         </tr>
     </thead>
-    <tbody>
         <tr>
             <td>시간</td>
             <td>일정</td>
@@ -86,16 +80,11 @@ layout: post
             <td>19:30~22:00</td>
             <td>session 5</td>
         </tr>
-    </tbody>
-</table>
-
-<table>
     <thead>
         <tr>
             <td colspan="2">7월 31일 수</td>
         </tr>
     </thead>
-    <tbody>
         <tr>
             <td>시간</td>
             <td>일정</td>
@@ -128,16 +117,11 @@ layout: post
             <td>19:30~22:00</td>
             <td>session 8</td>
         </tr>
-    </tbody>
-</table>
-
-<table>
     <thead>
         <tr>
             <td colspan="2">8월 1일 목</td>
         </tr>
     </thead>
-    <tbody>
         <tr>
             <td>시간</td>
             <td>일정</td>
@@ -166,5 +150,3 @@ layout: post
         <tr>
             <td>19:30~22:00</td>
         </tr>
-    </tbody>
-</table>
