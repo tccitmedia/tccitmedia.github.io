@@ -20,8 +20,9 @@ layout: post
 
 <br>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdln6isUpCc2m_rGmcxIYG5ZD2o_xWFdho_BO5MNfWJzFtEog/viewform?embedded=true"
-    width="100%" height="680px" frameborder="0" marginheight="0" marginwidth="0">2019년 서울 라스트러너 등록</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfNSRCj6aOALITXPZtGH_Y1PHqRh0wilheU6O9HzW5DMbzYQQ/viewform?embedded=true" 
+width="100%" height="680" frameborder="0" marginheight="0" marginwidth="0">로드 중…</iframe>
 
+## 환불규정
 
-감사합니다
+1. 컨퍼런스가 시작된 날 부터는 환불이 불가능합니다.
