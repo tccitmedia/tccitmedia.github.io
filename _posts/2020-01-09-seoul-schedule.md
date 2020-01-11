@@ -3,7 +3,11 @@ title: 2020 서울 라스트러너 스케쥴
 author: TCC 
 layout: post
 ---
-
+<style>
+table tr td {
+    vertical-align: middle;
+}
+</style>
 
 <table>
     <thead>
