@@ -25,4 +25,4 @@ width="100%" height="680" frameborder="0" marginheight="0" marginwidth="0">로�
 
 ## 환불규정
 
-1. 컨퍼런스가 시작된 날 부터는 환불이 불가능합니다.
+1. 컨퍼런스가 시작된 날 부터는 환불이 **절대** 불가능합니다.
