@@ -16,7 +16,7 @@ layout: post
 
 <br>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSejCmC__IjIbugfojAkF7O4S9vtCwLLXnz9X4GEraKpAfrhIg/viewform?embedded=true"
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScQWqaupG1_a5P95O4BLNZcvli8hW8ICOw4cS-bhNzK80yygQ/viewform?embedded=true"
 width="100%" height="680px" frameborder="0" marginheight="0" marginwidth="0">로드 중…</iframe>
 
 ## 환불규정
