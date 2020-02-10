@@ -4,21 +4,16 @@ author: TCC
 layout: post
 ---
 
-## 단체등록의 경우 다음의 포맷으로 입력해주세요
+## 알려드립니다.
 
-<br>
+코로나 바이러스에 의한 우한폐렴을 원인으로 부산 라스트 러너는 일정이 취소되었음을 알려드립니다.
 
-<textarea class="example" readonly cols="30" rows="3">
-  등록인원 2명
-  1. 홍길동/남/17
-  2. 박철수/남/16
-</textarea>
+어떻게 해서든지 진행하고자 하였으나, 추가 감염이 우려되어 일정을 취소하는것이 안전하다 판단되었기 때문입니다.
 
-<br>
+하지만, 서울 지역의 라스트 러너는 강사의 변경은 있으나 일정의 변경이 없이 진행되오니
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScQWqaupG1_a5P95O4BLNZcvli8hW8ICOw4cS-bhNzK80yygQ/viewform?embedded=true"
-width="100%" height="680px" frameborder="0" marginheight="0" marginwidth="0">로드 중…</iframe>
+혹, 서울 지역 라스트러너에 관심이 있으신 분들은 아래의 버튼을 클릭하여 확인하여주시면 감사하겠습니다.
 
-## 환불규정
-
-1. 컨퍼런스가 시작되는 날 부터는 환불이 **절대** 불가능합니다.
+<div class="item-no-shadow">
+    <a href="2020/01/09/seoul-register.html" class="button scrolly">서울지역 등록</a>
+</div>
